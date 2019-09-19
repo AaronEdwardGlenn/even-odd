@@ -1,0 +1,13 @@
+body{
+    background-image: url(/images/background2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: fantasy;
+    font-size: 200%;
+    color: white;
+}
+footer{
+    font-size: 35%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
