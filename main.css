@@ -5,9 +5,13 @@ body{
     font-family: fantasy;
     font-size: 200%;
     color: white;
+    border: 15px solid black; 
+    text-align: center;
+
 }
+
+
 footer{
     font-size: 35%;
     font-family: 'Courier New', Courier, monospace;
-
 }
